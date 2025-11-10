@@ -2,7 +2,12 @@
 name = "hamlib-sys"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+links = "hamlib"
 build = "build.rs"
+description = "low-level bindings to hamlib (libhamlib4)"
+homepage = "https://hamlib.github.io/"
+repository = "https://github.com/MatthewIsHere/hamlib-sys"
 
 [dependencies]
 
